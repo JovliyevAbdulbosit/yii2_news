@@ -1,0 +1,21 @@
+*{margin: 0;
+padding: 0;
+box-sizing: 0;}
+.row{
+	margin: 0 ;
+	padding:0px;
+}
+.card{
+	padding:10px;
+}
+nav{
+	margin-left: -107px;
+    margin-right: -113px;
+    padding: 1px;
+    margin-top: -70px;
+        height: 40px;}
+}
+.detail{
+	    margin: 200px;
+   	    margin-top: 0;
+}
